@@ -62,7 +62,7 @@
 			prop = { model = `bzzz_foodpack_pizza_napoletana002`, bone = 60309, pos = vec3(0.02, -0.03, -0.02), rot = vec3(0.0, 25.0, -70.0) },
 			usetime = 2500,
 			notification = 'Bon appétit'
-		}
+		}},
 	
 		['pepperoni'] = {
 		label = 'Pizza Pepperoni',
