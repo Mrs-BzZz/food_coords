@@ -3,7 +3,7 @@
 
 
 
--- 2) Add items to qb-smallresources/config.lua
+-- 2) Add items to qb-smallresources/config.lua (Config.Consumables - custom)
 
 ['bzzz_drink_beer_a'] = {
          progress = {
