@@ -8,7 +8,7 @@
 
 
 
--- 3) Add items to qb-smallresources/config.lua
+-- 3) Add items to qb-smallresources/config.lua (Config.Consumables - custom)
 
 
     ['res_food_a'] = {
