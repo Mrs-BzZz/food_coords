@@ -19,7 +19,7 @@
     animation = {
         animDict = 'bzzz_fastfood_anim2',
         anim = 'anim2',
-        flags = 17,
+        flags = 17, --or 49 if you want to move
     },
     prop = {
         model = 'bzzz_prop_fastfood_noodle_a',
