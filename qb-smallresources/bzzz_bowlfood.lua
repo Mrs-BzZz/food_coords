@@ -17,7 +17,7 @@
     animation = {
         animDict = 'bzzz_bowl_eat',
         anim = 'bowl_eat',
-        flags = 17,
+        flags = 17, --or 49 if you want to move
     },
     prop = {
         model = 'bzzz_bowlfood_chicken_carbonara_a',
@@ -47,7 +47,7 @@
     animation = {
         animDict = 'bzzz_bowl_eat',
         anim = 'bowl_eat',
-        flags = 17,
+        flags = 17, --or 49 if you want to move
     },
     prop = {
         model = 'bzzz_bowlfood_soup_miso_a',
@@ -77,7 +77,7 @@
     animation = {
         animDict = 'bzzz_bowl_eat',
         anim = 'bowl_eat',
-        flags = 17,
+        flags = 17, --or 49 if you want to move
     },
     prop = {
         model = 'bzzz_bowlfood_soup_pho_a',
@@ -107,7 +107,7 @@
     animation = {
         animDict = 'bzzz_bowl_eat',
         anim = 'bowl_eat',
-        flags = 17,
+        flags = 17, --or 49 if you want to move
     },
     prop = {
         model = 'bzzz_bowlfood_primavera_pasta_a',
@@ -132,12 +132,12 @@
 ["bowl_sausage"] = {
     progress = {
         label = 'Using Item...',
-        time = 7000
+        time = 7000 
     },
     animation = {
         animDict = 'bzzz_bowl_eat',
         anim = 'bowl_eat',
-        flags = 17,
+        flags = 17, --or 49 if you want to move
     },
     prop = {
         model = 'bzzz_bowlfood_sausage_pasta_a',
@@ -167,7 +167,7 @@
     animation = {
         animDict = 'bzzz_bowl_eat',
         anim = 'bowl_eat',
-        flags = 17,
+        flags = 17, --or 49 if you want to move
     },
     prop = {
         model = 'bzzz_bowlfood_chicken_alfredo_a',
@@ -197,7 +197,7 @@
     animation = {
         animDict = 'bzzz_bowl_eat',
         anim = 'bowl_eat',
-        flags = 17,
+        flags = 17, --or 49 if you want to move
     },
     prop = {
         model = 'bzzz_bowlfood_soup_borscht_a',
