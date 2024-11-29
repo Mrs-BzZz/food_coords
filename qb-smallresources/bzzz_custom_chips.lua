@@ -17,7 +17,7 @@
     animation = {
         animDict = 'bzzz_eating_chips',
         anim = 'eat_chip',
-        flags = 17,
+        flags = 17, --or 49 if you want to move
     },
     prop = {
         model = 'bzzz_prop_chips_a_open',
@@ -47,7 +47,7 @@
     animation = {
         animDict = 'bzzz_eating_chips',
         anim = 'eat_chip',
-        flags = 17,
+        flags = 17, --or 49 if you want to move
     },
     prop = {
         model = 'bzzz_prop_chips_b_open',
@@ -77,7 +77,7 @@
     animation = {
         animDict = 'bzzz_eating_chips',
         anim = 'eat_chip',
-        flags = 17,
+        flags = 17, --or 49 if you want to move
     },
     prop = {
         model = 'bzzz_prop_chips_c_open',
@@ -107,7 +107,7 @@
     animation = {
         animDict = 'bzzz_eating_chips',
         anim = 'eat_chip',
-        flags = 17,
+        flags = 17, --or 49 if you want to move
     },
     prop = {
         model = 'bzzz_prop_chips_d_open',
