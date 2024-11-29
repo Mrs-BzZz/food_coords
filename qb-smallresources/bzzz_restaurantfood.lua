@@ -19,7 +19,7 @@
          animation = {
                 animDict = 'bzzz@restaurant@eat',
                 anim = 'bzzz_restaurant_eat',
-				flags = 17,
+		flags = 17, --or 49 if you want to move
          },
          prop = {
              model = 'bzzz_restaurant_food_a',
@@ -27,7 +27,7 @@
              coords = vector3(0.08, -0.04, 0.07), -- vector 3 format
              rotation = vector3(-30.0, 10.0, 0.0), -- vector 3 format
          },
-		     prop2 = {
+		prop2 = {
             model = 'bzzz_restaurant_fork_a',
             bone = 57005,
             coords = vec3(0.1, 0.05, 0.0),
