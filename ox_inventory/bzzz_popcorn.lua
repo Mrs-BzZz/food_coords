@@ -19,7 +19,7 @@
             rot = vec3(18.0, 45.0, 60.0) },
 
             usetime = 17500,
-      			notification = 'Yum'
+      	    notification = 'Yum'
         },
     },	
 	
@@ -44,7 +44,7 @@
             rot = vec3(18.0, 45.0, 60.0) },
 
             usetime = 17500,
-      			notification = 'Yum'
+      	    notification = 'Yum'
         },
     },
 	
@@ -69,6 +69,46 @@
             rot = vec3(18.0, 45.0, 60.0) },
 
             usetime = 17500,
-		       	notification = 'Yum'
+	    notification = 'Yum'
         },
     },	
+
+
+	['bzzz_prop_popcorn_drink_a'] = {
+		label = 'Small Pop-Cola',
+		weight = 500,
+		client = {
+			status = { thirst = 200000 },
+			anim = { dict = 'mp_player_intdrink', clip = 'loop_bottle' },
+			prop = { model = `bzzz_prop_popcorn_drink_a`, pos = vec3(0.04, 0.02, 0.01), rot = vec3(13.0, -10.0, -10.0) },
+			usetime = 5000,
+			cancel = true,
+			notification = 'Yum'
+		}
+	},	
+
+	['bzzz_prop_popcorn_drink_b'] = {
+		label = 'Medium Pop-Cola',
+		weight = 500,
+		client = {
+			status = { thirst = 200000 },
+			anim = { dict = 'mp_player_intdrink', clip = 'loop_bottle' },
+			prop = { model = `bzzz_prop_popcorn_drink_b`, pos = vec3(0.06, 0.06, 0.03), rot = vec3(31.0, -16.0, -16.0) },
+			usetime = 5000,
+			cancel = true,
+			notification = 'Yum'
+		}
+	},
+
+	['bzzz_prop_popcorn_drink_c'] = {
+		label = 'Large Pop-Cola',
+		weight = 500,
+		client = {
+			status = { thirst = 200000 },
+			anim = { dict = 'mp_player_intdrink', clip = 'loop_bottle' },
+			prop = { model = `bzzz_prop_popcorn_drink_c`, pos = vec3(0.06, 0.09, 0.03), rot = vec3(43.0, -10.0, -25.0) },
+			usetime = 5000,
+			cancel = true,
+			notification = 'Yum'
+		}
+	},
