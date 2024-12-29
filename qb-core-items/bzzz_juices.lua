@@ -291,3 +291,145 @@ glass_strawberry = {
     description = 'Strawberry juice' 
 },
 
+bzzz_drink_juice_box_apple = { 
+    name = 'bzzz_drink_juice_box_apple', 
+    label = 'Apple juice', 
+    weight = 200, 
+    type = 'item', 
+    image = 'bzzz_drink_juice_box_apple.png',  
+    unique = false, 
+    useable = true, 
+    shouldClose = true, 
+    combinable = nil, 
+    description = ' '  
+},
+
+bzzz_drink_juice_box_banana = { 
+    name = 'bzzz_drink_juice_box_banana', 
+    label = 'Banana juice', 
+    weight = 200, 
+    type = 'item', 
+    image = 'bzzz_drink_juice_box_banana.png',  
+    unique = false, 
+    useable = true, 
+    shouldClose = true, 
+    combinable = nil, 
+    description = ' '  
+},
+
+bzzz_drink_juice_box_cherry = { 
+    name = 'bzzz_drink_juice_box_cherry', 
+    label = 'Cherry juice', 
+    weight = 200, 
+    type = 'item', 
+    image = 'bzzz_drink_juice_box_cherry.png',  
+    unique = false, 
+    useable = true, 
+    shouldClose = true, 
+    combinable = nil, 
+    description = ' '  
+},
+
+bzzz_drink_juice_box_currant = { 
+    name = 'bzzz_drink_juice_box_currant', 
+    label = 'Currant juice', 
+    weight = 200, 
+    type = 'item', 
+    image = 'bzzz_drink_juice_box_currant.png',  
+    unique = false, 
+    useable = true, 
+    shouldClose = true, 
+    combinable = nil, 
+    description = ' '  
+},
+
+bzzz_drink_juice_box_grapefruit = { 
+    name = 'bzzz_drink_juice_box_grapefruit', 
+    label = 'Grapefruit juice', 
+    weight = 200, 
+    type = 'item', 
+    image = 'bzzz_drink_juice_box_grapefruit.png',  
+    unique = false, 
+    useable = true, 
+    shouldClose = true, 
+    combinable = nil, 
+    description = ' '  
+},
+
+bzzz_drink_juice_box_kiwi = { 
+    name = 'bzzz_drink_juice_box_kiwi', 
+    label = 'Kiwi juice', 
+    weight = 200, 
+    type = 'item', 
+    image = 'bzzz_drink_juice_box_kiwi.png',  
+    unique = false, 
+    useable = true, 
+    shouldClose = true, 
+    combinable = nil, 
+    description = ' '  
+},
+
+bzzz_drink_juice_box_orange = { 
+    name = 'bzzz_drink_juice_box_orange', 
+    label = 'Orange juice', 
+    weight = 200, 
+    type = 'item', 
+    image = 'bzzz_drink_juice_box_orange.png',  
+    unique = false, 
+    useable = true, 
+    shouldClose = true, 
+    combinable = nil, 
+    description = ' '  
+},
+
+bzzz_drink_juice_box_peach = { 
+    name = 'bzzz_drink_juice_box_peach', 
+    label = 'Peach juice', 
+    weight = 200, 
+    type = 'item', 
+    image = 'bzzz_drink_juice_box_peach.png',  
+    unique = false, 
+    useable = true, 
+    shouldClose = true, 
+    combinable = nil, 
+    description = ' '  
+},
+
+bzzz_drink_juice_box_pear = { 
+    name = 'bzzz_drink_juice_box_pear', 
+    label = 'Pear juice', 
+    weight = 200, 
+    type = 'item', 
+    image = 'bzzz_drink_juice_box_pear.png',  
+    unique = false, 
+    useable = true, 
+    shouldClose = true, 
+    combinable = nil, 
+    description = ' '  
+},
+
+bzzz_drink_juice_box_pineapple = { 
+    name = 'bzzz_drink_juice_box_pineapple', 
+    label = 'Pineapple juice', 
+    weight = 200, 
+    type = 'item', 
+    image = 'bzzz_drink_juice_box_pineapple.png',  
+    unique = false, 
+    useable = true, 
+    shouldClose = true, 
+    combinable = nil, 
+    description = ' '  
+},
+
+bzzz_drink_juice_box_plum = { 
+    name = 'bzzz_drink_juice_box_plum', 
+    label = 'Plum juice', 
+    weight = 200, 
+    type = 'item', 
+    image = 'bzzz_drink_juice_box_plum.png',  
+    unique = false, 
+    useable = true, 
+    shouldClose = true, 
+    combinable = nil, 
+    description = ' '  
+},
