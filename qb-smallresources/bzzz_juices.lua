@@ -584,4 +584,292 @@
     }
 },
 
-
+-- boxes - credit uajdumbass
+       ['bzzz_drink_juice_box_apple'] = {
+            progress = {
+                label = 'Using Item...',
+                time = 8000
+            },
+            animation = {
+                animDict = 'mp_player_intdrink',
+                anim = 'loop_bottle',
+                flags = 49,
+            },
+            prop = {
+                model = 'bzzz_drink_juice_box_apple',
+                bone = 60309,
+                coords = vector3(0.01, 0.06, -0.18),
+                rotation = vector3(2.0, -4.0, 122.0),
+            },
+            replenish = {
+                type = 'Thirst', 
+                replenish = math.random(20, 40),
+                isAlcohol = false, 
+                event = false, 
+                server = false 
+            }
+        },
+        ['bzzz_drink_juice_box_banana'] = {
+            progress = {
+                label = 'Using Item...',
+                time = 8000
+            },
+            animation = {
+                animDict = 'mp_player_intdrink',
+                anim = 'loop_bottle',
+                flags = 49,
+            },
+            prop = {
+                model = 'bzzz_drink_juice_box_banana',
+                bone = 60309,
+                coords = vector3(0.01, 0.06, -0.18),
+                rotation = vector3(2.0, -4.0, 122.0),
+            },
+            replenish = {
+                type = 'Thirst', 
+                replenish = math.random(20, 40),
+                isAlcohol = false, 
+                event = false, 
+                server = false 
+            }
+        },
+        ['bzzz_drink_juice_box_cherry'] = {
+            progress = {
+                label = 'Using Item...',
+                time = 8000
+            },
+            animation = {
+                animDict = 'mp_player_intdrink',
+                anim = 'loop_bottle',
+                flags = 49,
+            },
+            prop = {
+                model = 'bzzz_drink_juice_box_cherry',
+                bone = 60309,
+                coords = vector3(0.01, 0.06, -0.18),
+                rotation = vector3(2.0, -4.0, 122.0),
+            },
+            replenish = {
+                type = 'Thirst', 
+                replenish = math.random(20, 40),
+                isAlcohol = false, 
+                event = false, 
+                server = false 
+            }
+        },
+        ['bzzz_drink_juice_box_currant'] = {
+            progress = {
+                label = 'Using Item...',
+                time = 8000
+            },
+            animation = {
+                animDict = 'mp_player_intdrink',
+                anim = 'loop_bottle',
+                flags = 49,
+            },
+            prop = {
+                model = 'bzzz_drink_juice_box_currant',
+                bone = 60309,
+                coords = vector3(0.01, 0.06, -0.18),
+                rotation = vector3(2.0, -4.0, 122.0),
+            },
+            replenish = {
+                type = 'Thirst', 
+                replenish = math.random(20, 40),
+                isAlcohol = false, 
+                event = false, 
+                server = false 
+            }
+        },
+        ['bzzz_drink_juice_box_grapefruit'] = {
+            progress = {
+                label = 'Using Item...',
+                time = 8000
+            },
+            animation = {
+                animDict = 'mp_player_intdrink',
+                anim = 'loop_bottle',
+                flags = 49,
+            },
+            prop = {
+                model = 'bzzz_drink_juice_box_grapefruit',
+                bone = 60309,
+                coords = vector3(0.01, 0.06, -0.18),
+                rotation = vector3(2.0, -4.0, 122.0),
+            },
+            replenish = {
+                type = 'Thirst', 
+                replenish = math.random(20, 40),
+                isAlcohol = false, 
+                event = false, 
+                server = false 
+            }
+        },
+        ['bzzz_drink_juice_box_kiwi'] = {
+            progress = {
+                label = 'Using Item...',
+                time = 8000
+            },
+            animation = {
+                animDict = 'mp_player_intdrink',
+                anim = 'loop_bottle',
+                flags = 49,
+            },
+            prop = {
+                model = 'bzzz_drink_juice_box_kiwi',
+                bone = 60309,
+                coords = vector3(0.01, 0.06, -0.18),
+                rotation = vector3(2.0, -4.0, 122.0),
+            },
+            replenish = {
+                type = 'Thirst', 
+                replenish = math.random(20, 40),
+                isAlcohol = false, 
+                event = false, 
+                server = false 
+            }
+        },
+        ['bzzz_drink_juice_box_orange'] = {
+            progress = {
+                label = 'Using Item...',
+                time = 8000
+            },
+            animation = {
+                animDict = 'mp_player_intdrink',
+                anim = 'loop_bottle',
+                flags = 49,
+            },
+            prop = {
+                model = 'bzzz_drink_juice_box_orange',
+                bone = 60309,
+                coords = vector3(0.01, 0.06, -0.18),
+                rotation = vector3(2.0, -4.0, 122.0),
+            },
+            replenish = {
+                type = 'Thirst', 
+                replenish = math.random(20, 40),
+                isAlcohol = false, 
+                event = false, 
+                server = false 
+            }
+        },
+        ['bzzz_drink_juice_box_peach'] = {
+            progress = {
+                label = 'Using Item...',
+                time = 8000
+            },
+            animation = {
+                animDict = 'mp_player_intdrink',
+                anim = 'loop_bottle',
+                flags = 49,
+            },
+            prop = {
+                model = 'bzzz_drink_juice_box_peach',
+                bone = 60309,
+                coords = vector3(0.01, 0.06, -0.18),
+                rotation = vector3(2.0, -4.0, 122.0),
+            },
+            replenish = {
+                type = 'Thirst', 
+                replenish = math.random(20, 40),
+                isAlcohol = false, 
+                event = false, 
+                server = false 
+            }
+        },
+        ['bzzz_drink_juice_box_pear'] = {
+            progress = {
+                label = 'Using Item...',
+                time = 8000
+            },
+            animation = {
+                animDict = 'mp_player_intdrink',
+                anim = 'loop_bottle',
+                flags = 49,
+            },
+            prop = {
+                model = 'bzzz_drink_juice_box_pear',
+                bone = 60309,
+                coords = vector3(0.01, 0.06, -0.18),
+                rotation = vector3(2.0, -4.0, 122.0),
+            },
+            replenish = {
+                type = 'Thirst', 
+                replenish = math.random(20, 40),
+                isAlcohol = false, 
+                event = false, 
+                server = false 
+            }
+        },
+        ['bzzz_drink_juice_box_pineapple'] = {
+            progress = {
+                label = 'Using Item...',
+                time = 8000
+            },
+            animation = {
+                animDict = 'mp_player_intdrink',
+                anim = 'loop_bottle',
+                flags = 49,
+            },
+            prop = {
+                model = 'bzzz_drink_juice_box_pineapple',
+                bone = 60309,
+                coords = vector3(0.01, 0.06, -0.18),
+                rotation = vector3(2.0, -4.0, 122.0),
+            },
+            replenish = {
+                type = 'Thirst', 
+                replenish = math.random(20, 40),
+                isAlcohol = false, 
+                event = false, 
+                server = false 
+            }
+        },
+        ['bzzz_drink_juice_box_plum'] = {
+            progress = {
+                label = 'Using Item...',
+                time = 8000
+            },
+            animation = {
+                animDict = 'mp_player_intdrink',
+                anim = 'loop_bottle',
+                flags = 49,
+            },
+            prop = {
+                model = 'bzzz_drink_juice_box_plum',
+                bone = 60309,
+                coords = vector3(0.01, 0.06, -0.18),
+                rotation = vector3(2.0, -4.0, 122.0),
+            },
+            replenish = {
+                type = 'Thirst', 
+                replenish = math.random(20, 40),
+                isAlcohol = false, 
+                event = false, 
+                server = false 
+            }
+        },
+        ['bzzz_drink_juice_box_strawberry'] = {
+            progress = {
+                label = 'Using Item...',
+                time = 8000
+            },
+            animation = {
+                animDict = 'mp_player_intdrink',
+                anim = 'loop_bottle',
+                flags = 49,
+            },
+            prop = {
+                model = 'bzzz_drink_juice_box_strawberry',
+                bone = 60309,
+                coords = vector3(0.01, 0.06, -0.18),
+                rotation = vector3(2.0, -4.0, 122.0),
+            },
+            replenish = {
+                type = 'Thirst', 
+                replenish = math.random(20, 40),
+                isAlcohol = false, 
+                event = false, 
+                server = false 
+            }
+        },
