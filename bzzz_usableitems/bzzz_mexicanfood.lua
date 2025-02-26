@@ -125,7 +125,19 @@
     }
 },
 
-
+["bzzz_mexicanfood_chilesrellenos_a"] = {
+    basicInfo = {
+        amountToAdd = 200000, 
+        animationDict = "mp_player_inteat@burger", 
+        animationName = "mp_player_int_eat_burger"
+    },
+    firstProp = {
+        boneIndex = 60309, 
+        propName = "bzzz_mexicanfood_chilesrellenos_a", 
+        xPos = 0.00, yPos = -0.01, zPos = -0.02, 
+        xRot = 60.0, yRot = -50.0, zRot = 70.0
+    }
+},
 
 
 
@@ -135,6 +147,49 @@
 
 
 	--------- FOODPLATES SECTION ------
+["bzzz_mexicanfood_picodegallo_a"] = {
+    basicInfo = {
+        amountToAdd = 200000, 
+        animationDictEat = "bzzz@mfood@anim",
+        animationNameEat = "bzzz_mexican",
+        animationDictChewing = "facials@gen_male@base",
+        animationNameChewing = "eating_1"
+    },
+    firstProp = {
+        boneIndex = 60309, 
+        propName = "bzzz_mexicanfood_picodegallo_a", 
+        xPos = 0.08, yPos = 0.01, zPos = 0.07, 
+        xRot = -30.0, yRot = 0.0, zRot = 0.0
+    },
+    secondProp = {
+        boneIndex = 28422, 
+        propName = "bzzz_mexicanfood_ceviche_b", 
+        xPos = 0.08, yPos = 0.04, zPos = -0.05, 
+        xRot = -90.0, yRot = -20.0, zRot = -10.0
+    }
+},	
+	
+['bzzz_mexicanfood_pozole_a'] = {
+            basicInfo = {
+                amountToAdd = 200000, -- Adds food to your status bar (require esx_status)
+                animationDictEat = "bzzz@mfood@anim",
+                animationNameEat = "bzzz_mexican",
+                animationDictChewing = "facials@gen_male@base",
+                animationNameChewing = "eating_1"
+            },
+            firstProp = {
+                boneIndex = 60309, 
+                propName = "bzzz_mexicanfood_pozole_a", 
+                xPos = 0.08, yPos = 0.01, zPos = 0.07, xRot = -30.0, yRot = 0.0, zRot = 0.0
+            },
+            secondProp = {
+                boneIndex = 28422, 
+                propName = "bzzz_mexicanfood_pozole_b", 
+                xPos = 0.09, yPos = 0.03, zPos = -0.05, xRot = -70.0, yRot = 136.0, zRot = 36.0
+            }
+        },	
+
+
 ['bzzz_mexicanfood_caldoderes_a'] = {
             basicInfo = {
                 amountToAdd = 200000, -- Adds food to your status bar (require esx_status)
