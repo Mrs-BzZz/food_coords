@@ -208,3 +208,42 @@ bzzz_mexicanfood_tortas_a = {
     combinable = nil, 
     description = 'Mexican sandwich'  
 },
+
+bzzz_mexicanfood_chilesrellenos_a = { 
+    name = 'bzzz_mexicanfood_chilesrellenos_a', 
+    label = 'Chille Relleno', 
+    weight = 300, 
+    type = 'item', 
+    image = 'bzzz_mexicanfood_chilesrellenos_a.png',  
+    unique = false, 
+    useable = true, 
+    shouldClose = true, 
+    combinable = nil, 
+    description = 'Roasted poblano peppers stuffed with cheese'  
+},
+
+bzzz_mexicanfood_picodegallo_a = { 
+    name = 'bzzz_mexicanfood_picodegallo_a', 
+    label = 'Pico de Gallo', 
+    weight = 300, 
+    type = 'item', 
+    image = 'bzzz_mexicanfood_picodegallo_a.png',  
+    unique = false, 
+    useable = true, 
+    shouldClose = true, 
+    combinable = nil, 
+    description = 'Mexican salad'  
+},
+
+bzzz_mexicanfood_pozole_a = { 
+    name = 'bzzz_mexicanfood_pozole_a', 
+    label = 'Pozole', 
+    weight = 300, 
+    type = 'item', 
+    image = 'bzzz_mexicanfood_pozole_a.png',  
+    unique = false, 
+    useable = true, 
+    shouldClose = true, 
+    combinable = nil, 
+    description = 'Traditional Mexican soup'  
+},
