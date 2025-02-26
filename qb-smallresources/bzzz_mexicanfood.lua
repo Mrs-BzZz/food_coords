@@ -422,3 +422,90 @@
     }
 },
 
+['bzzz_mexicanfood_chilesrellenos_a'] = {
+    progress = {
+        label = 'Using Item...',
+        time = 5500
+    },
+    animation = {
+        animDict = 'mp_player_inteat@burger',
+        anim = 'mp_player_int_eat_burger',
+        flags = 49,
+    },
+    prop = {
+        model = 'bzzz_mexicanfood_chilesrellenos_a',
+        bone = 60309,
+        coords = vector3(0.00, -0.01, -0.02), 
+        rotation = vector3(20.0, -50.0, 70.0), 
+    },
+    replenish = {
+        type = 'Hunger',
+        replenish = math.random(20, 40),
+        isAlcohol = false,
+        event = false,
+        server = false
+    }
+},
+
+['bzzz_mexicanfood_picodegallo_a'] = {
+    progress = {
+        label = 'Using Item...',
+        time = 7500
+    },
+    animation = {
+        animDict = 'bzzz@mfood@anim',
+        anim = 'bzzz_mexican',
+        flags = 49, 
+    },
+    prop = {
+        model = 'bzzz_mexicanfood_picodegallo_a',
+        bone = 60309,
+        coords = vector3(0.08, 0.01, 0.07), 
+        rotation = vector3(-30.0, 0.0, 0.0), 
+    },
+    prop2 = {
+        model = 'bzzz_mexicanfood_ceviche_b',
+        bone = 28422,
+        coords = vector3(0.08, 0.04, -0.05), 
+        rotation = vector3(-90.0, -20.0, -10.0), 
+    },    
+    replenish = {
+        type = 'Hunger', -- replenish type 'Hunger'/'Thirst' / false
+        replenish = math.random(20, 40),
+        isAlcohol = false, -- if you want it to add alcohol count
+        event = false, -- 'eventname' if you want it to trigger an outside event on use useful for drugs
+        server = false -- if the event above is a server event
+    }
+},
+
+
+['bzzz_mexicanfood_pozole_a'] = {
+    progress = {
+        label = 'Using Item...',
+        time = 9500
+    },
+    animation = {
+        animDict = 'bzzz@mfood@anim',
+        anim = 'bzzz_mexican',
+        flags = 49, 
+    },
+    prop = {
+        model = 'bzzz_mexicanfood_pozole_a',
+        bone = 60309,
+        coords = vector3(0.08, 0.01, 0.07), 
+        rotation = vector3(-30.0, 0.0, 0.0), 
+    },
+    prop2 = {
+        model = 'bzzz_mexicanfood_pozole_b',
+        bone = 28422,
+        coords = vector3(0.09, 0.03, -0.05), 
+        rotation = vector3(-90.0, 150.0, -30.0), 
+    },    
+    replenish = {
+        type = 'Hunger', -- replenish type 'Hunger'/'Thirst' / false
+        replenish = math.random(20, 40),
+        isAlcohol = false, -- if you want it to add alcohol count
+        event = false, -- 'eventname' if you want it to trigger an outside event on use useful for drugs
+        server = false -- if the event above is a server event
+    }
+},
