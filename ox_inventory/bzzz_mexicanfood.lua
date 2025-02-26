@@ -352,3 +352,73 @@
         },
     },	
 	
+	['bzzz_mexicanfood_chilesrellenos_a'] = {
+        label = 'Chille Relleno',
+		degrade = 2880,-- 48 hours
+        weight = 300,
+        stack = false,
+        close = true,
+        description = "Roasted poblano peppers stuffed with cheese",
+        client = {
+            status = { hunger = 100000 },
+            anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
+            prop = { model = 'bzzz_mexicanfood_chilesrellenos_a',
+            pos = vec3(0.00, -0.01, -0.02),
+            rot = vec3(20.0, -50.0, 70.0) },
+			bone = 60309,
+            usetime = 5500,
+			notification = 'You have satisfied your hunger'
+        },
+    },
+
+	['bzzz_mexicanfood_picodegallo_a'] = {
+        label = 'Pico de Gallo',
+		degrade = 2880,-- 48 hours
+        weight = 400,
+        stack = false,
+        close = true,
+        description = "Mexican salad",
+        client = {
+            status = { hunger = 150000 },
+            anim = { dict = 'bzzz@mfood@anim', clip = 'bzzz_mexican' },
+
+			prop = { model = 'bzzz_mexicanfood_picodegallo_a',
+			bone = 60309,
+            pos = vec3(0.08, 0.01, 0.07),
+            rot = vec3(-30.0, 0.0, 0.0) },
+			
+			propTwo = { model = 'bzzz_mexicanfood_ceviche_b',
+			bone = 28422,
+            pos = vec3(0.08, 0.04, -0.05),
+            rot = vec3(-90.0, -20.0, -10.0) },
+					
+            usetime = 7500,
+			notification = 'You have satisfied your hunger'
+        },
+    },	
+
+	['bzzz_mexicanfood_pozole_a'] = {
+        label = 'Pozole',
+		degrade = 2880,-- 48 hours
+        weight = 500,
+        stack = false,
+        close = true,
+        description = "Traditional Mexican soup",
+        client = {
+            status = { hunger = 150000 },
+            anim = { dict = 'bzzz@mfood@anim', clip = 'bzzz_mexican' },
+
+			prop = { model = 'bzzz_mexicanfood_pozole_a',
+			bone = 60309,
+            pos = vec3(0.08, 0.01, 0.07),
+            rot = vec3(-30.0, 0.0, 0.0) },
+			
+			propTwo = { model = 'bzzz_mexicanfood_pozole_b',
+			bone = 28422,
+            pos = vec3(0.09, 0.03, -0.05),
+            rot = vec3(-90.0, 150.0, -30.0) },
+					
+            usetime = 9500,
+			notification = 'You have satisfied your hunger'
+        },
+    },	
