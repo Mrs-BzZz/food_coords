@@ -1,4 +1,8 @@
-		['sweet_cake_a'] = {
+-- This package is an archive config only. The package has been removed and replaced by the sugery package.
+-- If you are a new customer who has purchased a food bundle, do not use this config.
+
+
+['sweet_cake_a'] = {
 		label = 'Chocolate cake',
 		weight = 350,
 		client = {
