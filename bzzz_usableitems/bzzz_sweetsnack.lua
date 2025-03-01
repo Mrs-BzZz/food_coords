@@ -1,3 +1,7 @@
+-- This package is an archive config only. The package has been removed and replaced by the sugery package.
+-- If you are a new customer who has purchased a food bundle, do not use this config.
+
+
 -- add to bzzz_usableitems V2 (food)		
 		
 		
