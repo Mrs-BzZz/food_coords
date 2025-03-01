@@ -1,3 +1,10 @@
+-- This package is an archive config only. The package has been removed and replaced by the sugery package.
+-- If you are a new customer who has purchased a food bundle, do not use this config.
+
+
+
+
+
 -- 1) Register items to qb-core/shared/items.lua
 -- https://github.com/Mrs-BzZz/food_coords/blob/main/qb-core-items/bzzz_sweetsnack.lua
 
