@@ -379,7 +379,7 @@
         description = "Burger menu",
         client = {
             status = { hunger = 300000 },
-            anim = { dict = 'bzzz_burgershot_anim2', clip = 'anim2' },
+            anim = { dict = 'bzzz_fastfood_anim2', clip = 'anim2' },
 
             prop = { model = 'bzzz_prop_fastfood_menu_a',
             bone = 60309,
@@ -405,7 +405,7 @@
         description = "Burger menu",
         client = {
             status = { hunger = 300000 },
-            anim = { dict = 'bzzz_burgershot_anim2', clip = 'anim2' },
+            anim = { dict = 'bzzz_fastfood_anim2', clip = 'anim2' },
 
             prop = { model = 'bzzz_prop_fastfood_menu_b',
             bone = 60309,
@@ -431,7 +431,7 @@
         description = "Burger menu",
         client = {
             status = { hunger = 300000 },
-            anim = { dict = 'bzzz_burgershot_anim2', clip = 'anim2' },
+            anim = { dict = 'bzzz_fastfood_anim2', clip = 'anim2' },
 
             prop = { model = 'bzzz_prop_fastfood_menu_c',
             bone = 60309,
@@ -457,7 +457,7 @@
         description = "Burger menu",
         client = {
             status = { hunger = 300000 },
-            anim = { dict = 'bzzz_burgershot_anim2', clip = 'anim2' },
+            anim = { dict = 'bzzz_fastfood_anim2', clip = 'anim2' },
 
             prop = { model = 'bzzz_prop_fastfood_menu_d',
             bone = 60309,
