@@ -369,3 +369,108 @@
 			notification = 'Bon appétit'
         },
     },
+
+	['bzzz_prop_fastfood_menu_a'] = {
+        label = 'Burger and fries menu',
+        degrade = 2880,
+        weight = 600,
+        stack = true,
+        close = true,
+        description = "Burger menu",
+        client = {
+            status = { hunger = 300000 },
+            anim = { dict = 'bzzz_burgershot_anim2', clip = 'anim2' },
+
+            prop = { model = 'bzzz_prop_fastfood_menu_a',
+            bone = 60309,
+            pos = vec3(0.09, 0.02, 0.05),
+            rot = vec3(-10.0, -40.0, -90.0) },
+
+            propTwo = { model = 'bzzz_fastfood_burgershot_fries_c',
+            bone = 28422,
+            pos = vec3(0.09, 0.04, -0.03),
+            rot = vec3(-100.0, -40.0, -30.0) },
+
+            usetime = 5500,
+			notification = 'Bon appétit'
+        },
+    },
+
+	['bzzz_prop_fastfood_menu_b'] = {
+        label = 'Nuggets and fries menu',
+        degrade = 2880,
+        weight = 600,
+        stack = true,
+        close = true,
+        description = "Burger menu",
+        client = {
+            status = { hunger = 300000 },
+            anim = { dict = 'bzzz_burgershot_anim2', clip = 'anim2' },
+
+            prop = { model = 'bzzz_prop_fastfood_menu_b',
+            bone = 60309,
+            pos = vec3(0.09, 0.02, 0.05),
+            rot = vec3(-10.0, -40.0, -90.0) },
+
+            propTwo = { model = 'bzzz_fastfood_burgershot_fries_c',
+            bone = 28422,
+            pos = vec3(0.09, 0.04, -0.03),
+            rot = vec3(-100.0, -40.0, -30.0) },
+
+            usetime = 5500,
+			notification = 'Bon appétit'
+        },
+    },
+
+	['bzzz_prop_fastfood_menu_c'] = {
+        label = 'Chicken legs ans fries menu',
+        degrade = 2880,
+        weight = 600,
+        stack = true,
+        close = true,
+        description = "Burger menu",
+        client = {
+            status = { hunger = 300000 },
+            anim = { dict = 'bzzz_burgershot_anim2', clip = 'anim2' },
+
+            prop = { model = 'bzzz_prop_fastfood_menu_c',
+            bone = 60309,
+            pos = vec3(0.09, 0.02, 0.05),
+            rot = vec3(-10.0, -40.0, -90.0) },
+
+            propTwo = { model = 'bzzz_fastfood_burgershot_fries_c',
+            bone = 28422,
+            pos = vec3(0.09, 0.04, -0.03),
+            rot = vec3(-100.0, -40.0, -30.0) },
+
+            usetime = 5500,
+			notification = 'Bon appétit'
+        },
+    },
+
+	['bzzz_prop_fastfood_menu_d'] = {
+        label = 'Strips and fries menu',
+        degrade = 2880,
+        weight = 600,
+        stack = true,
+        close = true,
+        description = "Burger menu",
+        client = {
+            status = { hunger = 300000 },
+            anim = { dict = 'bzzz_burgershot_anim2', clip = 'anim2' },
+
+            prop = { model = 'bzzz_prop_fastfood_menu_d',
+            bone = 60309,
+            pos = vec3(0.09, 0.02, 0.05),
+            rot = vec3(-10.0, -40.0, -90.0) },
+
+            propTwo = { model = 'bzzz_fastfood_burgershot_fries_c',
+            bone = 28422,
+            pos = vec3(0.09, 0.04, -0.03),
+            rot = vec3(-100.0, -40.0, -30.0) },
+
+            usetime = 5500,
+			notification = 'Bon appétit'
+        },
+    },
+
