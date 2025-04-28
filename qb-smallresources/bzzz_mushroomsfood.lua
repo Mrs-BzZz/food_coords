@@ -9,6 +9,7 @@
 
 
 -- 3) Add items to qb-smallresources/config.lua (Config.Consumables - custom)
+
 ['bzzz_mushroomsfood_omelette_a'] = {
     progress = {
         label = 'Using Item...',
@@ -23,7 +24,7 @@
         model = 'bzzz_mushroomsfood_omelette_a',
         bone = 60309,
         coords = vector3(0.08, 0.01, 0.05),
-        rotation = vector3(-30.0, 0.0, 0.0) },
+        rotation = vector3(-30.0, 0.0, 0.0)
     },
     prop2 = {
         model = 'bzzz_mushroomsfood_omelette_b',
