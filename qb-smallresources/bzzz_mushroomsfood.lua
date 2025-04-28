@@ -60,7 +60,7 @@
     prop2 = {
         model = 'bzzz_mushroomsfood_rolls_b',
         bone = 28422,
-        coords = vector3(0.09, 0.04, -0.05),
+        coords = vector3(0.08, 0.04, -0.05),
         rotation = vector3(-90.0, 0.0, -30.0),
     },
     replenish = {
@@ -122,7 +122,7 @@
     prop2 = {
         model = 'bzzz_mushroomsfood_risotto_b',
         bone = 28422,
-        coords = vector3(0.09, 0.03, -0.06),
+        coords = vector3(0.09, 0.04, -0.04),
         rotation = vector3(-110.0, 150.0, -30.0),
     },
     replenish = {
@@ -153,7 +153,7 @@
     prop2 = {
         model = 'bzzz_mushroomsfood_soup_b',
         bone = 28422,
-        coords = vector3(0.09, 0.03, -0.06),
+        coords = vector3(0.09, 0.04, -0.04),
         rotation = vector3(-110.0, 150.0, -30.0),
     },
     replenish = {
@@ -203,7 +203,7 @@
     prop = {
         model = 'bzzz_mushroomsfood_taco_a',
         bone = 60309,
-        coords = vector3(0.0, 0.0, 0.01),
+        coords = vector3(0.00, 0.00, -0.02),
         rotation = vector3(0.0, 5.0, 5.0),
     },
     replenish = {
