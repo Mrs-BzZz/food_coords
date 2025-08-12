@@ -64,7 +64,7 @@
 			notification = 'Bon appétit'
 		}
 	},
-		['hotdog_a'] = {
+		['skewer_hotdog_a'] = {
 		label = 'Hotdog',
 		weight = 350,
 		client = {
