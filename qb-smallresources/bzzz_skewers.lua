@@ -155,7 +155,7 @@
     }
 },
 
-['hotdog_a'] = {
+['skewer_hotdog_a'] = {
     progress = {
         label = 'Using Item...',
         time = 2500
