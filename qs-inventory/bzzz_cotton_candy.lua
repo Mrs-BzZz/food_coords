@@ -14,7 +14,7 @@
     ['delete'] = false,
     ['object'] = 'bzzz_candy_cotton_yellow',
     ['client'] = {
-        status = { thirst = 5000 },
+        status = { hunger = 5000 },
         usetime = 2500,
         anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
         prop = {
@@ -41,7 +41,7 @@
     ['delete'] = false,
     ['object'] = 'bzzz_candy_cotton_pink',
     ['client'] = {
-        status = { thirst = 5000 },
+        status = { hunger = 5000 },
         usetime = 2500,
         anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
         prop = {
@@ -68,7 +68,7 @@
     ['delete'] = false,
     ['object'] = 'bzzz_candy_cotton_red',
     ['client'] = {
-        status = { thirst = 5000 },
+        status = { hunger = 5000 },
         usetime = 2500,
         anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
         prop = {
@@ -95,7 +95,7 @@
     ['delete'] = false,
     ['object'] = 'bzzz_candy_cotton_blue',
     ['client'] = {
-        status = { thirst = 5000 },
+        status = { hunger = 5000 },
         usetime = 2500,
         anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
         prop = {
