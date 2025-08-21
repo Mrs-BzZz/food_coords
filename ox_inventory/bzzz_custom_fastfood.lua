@@ -386,7 +386,7 @@
             pos = vec3(0.09, 0.02, 0.05),
             rot = vec3(-10.0, -40.0, -90.0) },
 
-            propTwo = { model = 'bzzz_fastfood_burgershot_fries_c',
+            propTwo = { model = 'bzzz_prop_fastfood_fries_c',
             bone = 28422,
             pos = vec3(0.09, 0.04, -0.03),
             rot = vec3(-100.0, -40.0, -30.0) },
@@ -412,7 +412,7 @@
             pos = vec3(0.09, 0.02, 0.05),
             rot = vec3(-10.0, -40.0, -90.0) },
 
-            propTwo = { model = 'bzzz_fastfood_burgershot_fries_c',
+            propTwo = { model = 'bzzz_prop_fastfood_fries_c',
             bone = 28422,
             pos = vec3(0.09, 0.04, -0.03),
             rot = vec3(-100.0, -40.0, -30.0) },
@@ -438,7 +438,7 @@
             pos = vec3(0.09, 0.02, 0.05),
             rot = vec3(-10.0, -40.0, -90.0) },
 
-            propTwo = { model = 'bzzz_fastfood_burgershot_fries_c',
+            propTwo = { model = 'bzzz_prop_fastfood_fries_c',
             bone = 28422,
             pos = vec3(0.09, 0.04, -0.03),
             rot = vec3(-100.0, -40.0, -30.0) },
@@ -464,7 +464,7 @@
             pos = vec3(0.09, 0.02, 0.05),
             rot = vec3(-10.0, -40.0, -90.0) },
 
-            propTwo = { model = 'bzzz_fastfood_burgershot_fries_c',
+            propTwo = { model = 'bzzz_prop_fastfood_fries_c',
             bone = 28422,
             pos = vec3(0.09, 0.04, -0.03),
             rot = vec3(-100.0, -40.0, -30.0) },
