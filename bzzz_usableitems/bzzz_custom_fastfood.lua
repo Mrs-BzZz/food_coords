@@ -320,3 +320,80 @@
         xPos = 0.13, yPos = 0.04, zPos = -0.03, xRot = 78.0, yRot = 150.0, zRot = 186.0
     }
 },
+        ['bzzz_prop_fastfood_menu_a'] = {
+            basicInfo = {
+                amountToAdd = 200000, -- Adds food to your status bar (require esx_status)
+                animationDictEat = "bzzz_fastfood_anim2",
+                animationNameEat = "anim2",
+                animationDictChewing = "facials@gen_male@base",
+                animationNameChewing = "eating_1"
+            },
+            firstProp = {
+                boneIndex = 60309,
+                propName = "bzzz_prop_fastfood_menu_a",
+                xPos = 0.13, yPos = 0.04, zPos = 0.03, xRot = 70.0, yRot = 80.0, zRot = -120.0
+            },
+            secondProp = {
+                boneIndex = 28422,
+                propName = "bzzz_prop_fastfood_fries_c",
+                xPos = 0.07, yPos = 0.04, zPos = -0.03, xRot = -100.0, yRot = -40.0, zRot = -30.0
+            }
+        },		
+        ['bzzz_prop_fastfood_menu_b'] = {
+            basicInfo = {
+                amountToAdd = 200000, -- Adds food to your status bar (require esx_status)
+                animationDictEat = "bzzz_fastfood_anim2",
+                animationNameEat = "anim2",
+                animationDictChewing = "facials@gen_male@base",
+                animationNameChewing = "eating_1"
+            },
+            firstProp = {
+                boneIndex = 60309,
+                propName = "bzzz_prop_fastfood_menu_b",
+                xPos = 0.13, yPos = 0.04, zPos = 0.03, xRot = 70.0, yRot = 80.0, zRot = -120.0
+            },
+            secondProp = {
+                boneIndex = 28422,
+                propName = "bzzz_prop_fastfood_fries_c",
+                xPos = 0.07, yPos = 0.04, zPos = -0.03, xRot = -100.0, yRot = -40.0, zRot = -30.0
+            }
+        },		
+        ['bzzz_prop_fastfood_menu_c'] = {
+            basicInfo = {
+                amountToAdd = 200000, -- Adds food to your status bar (require esx_status)
+                animationDictEat = "bzzz_fastfood_anim2",
+                animationNameEat = "anim2",
+                animationDictChewing = "facials@gen_male@base",
+                animationNameChewing = "eating_1"
+            },
+            firstProp = {
+                boneIndex = 60309,
+                propName = "bzzz_prop_fastfood_menu_c",
+                xPos = 0.13, yPos = 0.04, zPos = 0.03, xRot = 70.0, yRot = 80.0, zRot = -120.0
+            },
+            secondProp = {
+                boneIndex = 28422,
+                propName = "bzzz_prop_fastfood_fries_c",
+                xPos = 0.07, yPos = 0.04, zPos = -0.03, xRot = -100.0, yRot = -40.0, zRot = -30.0
+            }
+        },		
+        ['bzzz_prop_fastfood_menu_d'] = {
+            basicInfo = {
+                amountToAdd = 200000, -- Adds food to your status bar (require esx_status)
+                animationDictEat = "bzzz_fastfood_anim2",
+                animationNameEat = "anim2",
+                animationDictChewing = "facials@gen_male@base",
+                animationNameChewing = "eating_1"
+            },
+            firstProp = {
+                boneIndex = 60309,
+                propName = "bzzz_prop_fastfood_menu_d",
+                xPos = 0.13, yPos = 0.04, zPos = 0.03, xRot = 70.0, yRot = 80.0, zRot = -120.0
+            },
+            secondProp = {
+                boneIndex = 28422,
+                propName = "bzzz_prop_fastfood_fries_c",
+                xPos = 0.07, yPos = 0.04, zPos = -0.03, xRot = -100.0, yRot = -40.0, zRot = -30.0
+            }
+        },		
+
