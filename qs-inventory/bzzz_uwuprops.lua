@@ -457,3 +457,112 @@
     }
 },
 
+	
+['bzzz_uwuprops_cakepop_a'] = {
+    ['name'] = 'bzzz_uwuprops_cakepop_a',
+    ['label'] = 'Cake Pop',
+    ['weight'] = 100,
+    ['type'] = 'item',
+    ['image'] = 'bzzz_uwuprops_cakepop_a.png',
+    ['unique'] = false,
+    ['useable'] = true,
+    ['shouldClose'] = true,
+    ['combinable'] = nil,
+    ['description'] = 'Cake Pop',
+    ['created'] = nil,
+    ['decay'] = 0.05,
+    ['delete'] = false,
+    ['object'] = 'bzzz_uwuprops_cakepop_a',
+    ['client'] = {
+        status = { hunger = 20000 },
+        usetime = 5000,
+        anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
+        prop = {
+            { model = 'bzzz_uwuprops_cakepop_a', bone = 60309, pos = vec3(0.00, 0.00, 0.00), rot = vec3(0.0, 0.0, 90.0) }
+        },
+        disable = { move = false, car = true, mouse = false, combat = true },
+        removeAfterUse = true
+    }
+},
+
+['bzzz_uwuprops_pizza_a'] = {
+    ['name'] = 'bzzz_uwuprops_pizza_a',
+    ['label'] = 'Pizza Cat',
+    ['weight'] = 100,
+    ['type'] = 'item',
+    ['image'] = 'bzzz_uwuprops_pizza_a.png',
+    ['unique'] = false,
+    ['useable'] = true,
+    ['shouldClose'] = true,
+    ['combinable'] = nil,
+    ['description'] = 'Pizza Cat',
+    ['created'] = nil,
+    ['decay'] = 0.05,
+    ['delete'] = false,
+    ['object'] = 'bzzz_uwuprops_pizza_a',
+    ['client'] = {
+        status = { hunger = 20000 },
+        usetime = 5000,
+        anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
+        prop = {
+            { model = 'bzzz_uwuprops_pizza_a', bone = 60309, pos = vec3(0.00, -0.04, 0.00), rot = vec3(10.0, 0.0, 90.0) }
+        },
+        disable = { move = false, car = true, mouse = false, combat = true },
+        removeAfterUse = true
+    }
+},
+
+['bzzz_uwuprops_pawcake_a'] = {
+    ['name'] = 'bzzz_uwuprops_pawcake_a',
+    ['label'] = 'Paw Cake',
+    ['weight'] = 100,
+    ['type'] = 'item',
+    ['image'] = 'bzzz_uwuprops_pawcake_a.png',
+    ['unique'] = false,
+    ['useable'] = true,
+    ['shouldClose'] = true,
+    ['combinable'] = nil,
+    ['description'] = 'Paw Cake',
+    ['created'] = nil,
+    ['decay'] = 0.05,
+    ['delete'] = false,
+    ['object'] = 'bzzz_uwuprops_pawcake_a',
+    ['client'] = {
+        status = { hunger = 20000 },
+        usetime = 5000,
+        anim = { dict = 'bzzz_uwu_eat', clip = 'bzzz_uwu_eat' },
+        prop = {
+            { model = 'bzzz_uwuprops_pawcake_a', bone = 60309, pos = vec3(0.12, -0.01, 0.04), rot = vec3(-30.0, 12.0, 14.0) }
+        },
+        disable = { move = false, car = true, mouse = false, combat = true },
+        removeAfterUse = true
+    }
+},
+
+['bzzz_uwuprops_nekoonigiri_a'] = {
+    ['name'] = 'bzzz_uwuprops_nekoonigiri_a',
+    ['label'] = 'Neko Onigiri',
+    ['weight'] = 100,
+    ['type'] = 'item',
+    ['image'] = 'bzzz_uwuprops_nekoonigiri_a.png',
+    ['unique'] = false,
+    ['useable'] = true,
+    ['shouldClose'] = true,
+    ['combinable'] = nil,
+    ['description'] = 'Neko Onigiri',
+    ['created'] = nil,
+    ['decay'] = 0.05,
+    ['delete'] = false,
+    ['object'] = 'bzzz_uwuprops_nekoonigiri_a',
+    ['client'] = {
+        status = { hunger = 20000 },
+        usetime = 5000,
+        anim = { dict = 'bzzz_uwu_eat', clip = 'bzzz_uwu_eat' },
+        prop = {
+            { model = 'bzzz_uwuprops_nekoonigiri_a', bone = 60309, pos = vec3(0.06, 0.00, 0.06), rot = vec3(0.0, 0.0, 80.0) }
+        },
+        disable = { move = false, car = true, mouse = false, combat = true },
+        removeAfterUse = true
+    }
+},
+	
