@@ -413,3 +413,103 @@
     }
 },
 
+['bzzz_uwuprops_cakepop_a'] = {
+    progress = {
+        label = 'Using Item...',
+        time = 5000
+    },
+    animation = {
+        animDict = 'mp_player_inteat@burger',
+        anim = 'mp_player_int_eat_burger',
+        flags = 49,
+    },
+    prop = {
+        model = 'bzzz_uwuprops_cakepop_a',
+        bone = 60309,
+        coords = vector3(0.00, 0.00, 0.00),
+        rotation = vector3(0.0, 10.0, 90.0),
+    },
+    replenish = {
+        type = 'Hunger',
+        replenish = math.random(20, 40),
+        isAlcohol = false,
+        event = false,
+        server = false
+    }
+},
+
+['bzzz_uwuprops_pizza_a'] = {
+    progress = {
+        label = 'Using Item...',
+        time = 5000
+    },
+    animation = {
+        animDict = 'mp_player_inteat@burger',
+        anim = 'mp_player_int_eat_burger',
+        flags = 49,
+    },
+    prop = {
+        model = 'bzzz_uwuprops_pizza_a',
+        bone = 60309,
+        coords = vector3(0.00, -0.04, 0.00),
+        rotation = vector3(10.0, 0.0, 90.0),
+    },
+    replenish = {
+        type = 'Hunger',
+        replenish = math.random(20, 40),
+        isAlcohol = false,
+        event = false,
+        server = false
+    }
+},
+
+['bzzz_uwuprops_pawcake_a'] = {
+    progress = {
+        label = 'Using Item...',
+        time = 5000
+    },
+    animation = {
+        animDict = 'bzzz_uwu_eat',
+        anim = 'bzzz_uwu_eat',
+        flags = 49,
+    },
+    prop = {
+        model = 'bzzz_uwuprops_pawcake_a',
+        bone = 60309,
+        coords = vector3(0.12, -0.01, 0.04),
+        rotation = vector3(-30.0, 12.0, 14.0),
+    },
+    replenish = {
+        type = 'Hunger',
+        replenish = math.random(20, 40),
+        isAlcohol = false,
+        event = false,
+        server = false
+    }
+},
+
+['bzzz_uwuprops_nekoonigiri_a'] = {
+    progress = {
+        label = 'Using Item...',
+        time = 5000
+    },
+    animation = {
+        animDict = 'bzzz_uwu_eat',
+        anim = 'bzzz_uwu_eat',
+        flags = 49,
+    },
+    prop = {
+        model = 'bzzz_uwuprops_nekoonigiri_a',
+        bone = 60309,
+        coords = vector3(0.06, 0.00, 0.06),
+        rotation = vector3(0.0, 0.0, 80.0),
+    },
+    replenish = {
+        type = 'Hunger',
+        replenish = math.random(20, 40),
+        isAlcohol = false,
+        event = false,
+        server = false
+    }
+},
+		
