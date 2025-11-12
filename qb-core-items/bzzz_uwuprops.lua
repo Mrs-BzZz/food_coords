@@ -205,3 +205,56 @@ bzzz_uwuprops_lollipop_a = {
     combinable = nil, 
     description = 'Food' 
 },
+
+['bzzz_uwuprops_cakepop_a'] = {
+    name = 'bzzz_uwuprops_cakepop_a',
+    label = 'Cake Pop',
+    weight = 100,
+    type = 'item',
+    image = 'bzzz_uwuprops_cakepop_a.png',
+    unique = false,
+    useable = true,
+    shouldClose = true,
+    combinable = nil,
+    description = 'Cake Pop'
+},
+
+['bzzz_uwuprops_pizza_a'] = {
+    name = 'bzzz_uwuprops_pizza_a',
+    label = 'Pizza Cat',
+    weight = 100,
+    type = 'item',
+    image = 'bzzz_uwuprops_pizza_a.png',
+    unique = false,
+    useable = true,
+    shouldClose = true,
+    combinable = nil,
+    description = 'Pizza Cat'
+},
+
+['bzzz_uwuprops_pawcake_a'] = {
+    name = 'bzzz_uwuprops_pawcake_a',
+    label = 'Paw Cake',
+    weight = 100,
+    type = 'item',
+    image = 'bzzz_uwuprops_pawcake_a.png',
+    unique = false,
+    useable = true,
+    shouldClose = true,
+    combinable = nil,
+    description = 'Paw Cake'
+},
+
+['bzzz_uwuprops_nekoonigiri_a'] = {
+    name = 'bzzz_uwuprops_nekoonigiri_a',
+    label = 'Neko Onigiri',
+    weight = 100,
+    type = 'item',
+    image = 'bzzz_uwuprops_nekoonigiri_a.png',
+    unique = false,
+    useable = true,
+    shouldClose = true,
+    combinable = nil,
+    description = 'Neko Onigiri'
+},
+
