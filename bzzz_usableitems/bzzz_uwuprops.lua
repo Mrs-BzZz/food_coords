@@ -121,6 +121,57 @@
     },
 },
 
+			['bzzz_uwuprops_cakepop_a'] = {
+    basicInfo = {
+        amountToAdd = 20000, -- Adds food to your status bar (require esx_status)
+                animationDict = "mp_player_inteat@burger",
+                animationName = "mp_player_int_eat_burger"
+    },
+    firstProp = {
+        boneIndex = 60309, 
+        propName = "bzzz_uwuprops_cakepop_a", 
+        xPos = 0.00, yPos = 0.00, zPos = 0.00, xRot = 0.0, yRot = 0.0, zRot = 90.0
+    }
+},
+
+	['bzzz_uwuprops_nekoonigiri_a'] = {
+    basicInfo = {
+        amountToAdd = 20000, -- Adds food to your status bar (require esx_status)
+                animationDict = "bzzz_uwu_eat",
+                animationName = "bzzz_uwu_eat"
+    },
+    firstProp = {
+        boneIndex = 60309, 
+        propName = "bzzz_uwuprops_nekoonigiri_a", 
+        xPos = 0.06, yPos = 0.00, zPos = 0.05, xRot = 0.0, yRot = 0.0, zRot = 80.0
+    }
+},
+	['bzzz_uwuprops_pawcake_a'] = {
+    basicInfo = {
+        amountToAdd = 20000, -- Adds food to your status bar (require esx_status)
+                animationDict = "bzzz_uwu_eat",
+                animationName = "bzzz_uwu_eat"
+    },
+    firstProp = {
+        boneIndex = 60309, 
+        propName = "bzzz_uwuprops_pawcake_a", 
+        xPos = 0.12, yPos = -0.01, zPos = 0.04, xRot = -30.0, yRot = 12.0, zRot = 14.0
+    }
+},
+	['bzzz_uwuprops_pizza_a'] = {
+    basicInfo = {
+        amountToAdd = 20000, -- Adds food to your status bar (require esx_status)
+                animationDict = "mp_player_inteat@burger",
+                animationName = "mp_player_int_eat_burger"
+    },
+    firstProp = {
+        boneIndex = 60309, 
+        propName = "bzzz_uwuprops_pizza_a", 
+        xPos = 0.00, yPos = -0.04, zPos = 0.00, xRot = 10.0, yRot = 0.0, zRot = 90.0
+    }
+},
+
+
 --------------------------------------------------------------------------------------------------------------------
 
 -- add to drink section
