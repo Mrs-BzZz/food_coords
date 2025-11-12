@@ -218,3 +218,68 @@
 			notification = 'Bon appétit'
 		}
 	},
+
+['bzzz_uwuprops_cakepop_a'] = {
+        label = 'Cake Pop',
+		degrade = 4320,--inedible after 72 hours
+        weight = 100,
+        stack = true,
+        close = true,
+        description = "Cake Pop",
+        client = {
+            status = { hunger = 20000 },
+            anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
+            prop = { model = 'bzzz_uwuprops_cakepop_a',
+            pos = vec3(0.00, 0.00, 0.00), rot = vec3(0.0, 0.0, 90.0) },
+			bone = 60309,
+            usetime = 5000,
+        },
+    },
+['bzzz_uwuprops_pizza_a'] = {
+        label = 'Pizza Cat',
+		degrade = 4320,--inedible after 72 hours
+        weight = 100,
+        stack = true,
+        close = true,
+        description = "Pizza Cat",
+        client = {
+            status = { hunger = 20000 },
+            anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
+            prop = { model = 'bzzz_uwuprops_pizza_a',
+            pos = vec3(0.00, -0.04, 0.00), rot = vec3(10.0, 0.0, 90.0) },
+			bone = 60309,
+            usetime = 5000,
+        },
+    },
+['bzzz_uwuprops_pawcake_a'] = {
+        label = 'Paw Cake',
+		degrade = 4320,--inedible after 72 hours
+        weight = 100,
+        stack = true,
+        close = true,
+        description = "Paw Cake",
+        client = {
+            status = { hunger = 20000 },
+            anim = { dict = 'bzzz_uwu_eat', clip = 'bzzz_uwu_eat' },
+            prop = { model = 'bzzz_uwuprops_pawcake_a',
+            pos = vec3(0.12, -0.01, 0.04), rot = vec3(-30.0, 12.0, 14.0) },
+			bone = 60309,
+            usetime = 5000,
+        },
+    },
+['bzzz_uwuprops_nekoonigiri_a'] = {
+        label = 'Neko Onigiri',
+		degrade = 4320,--inedible after 72 hours
+        weight = 100,
+        stack = true,
+        close = true,
+        description = "Neko Onigiri",
+        client = {
+            status = { hunger = 20000 },
+            anim = { dict = 'bzzz_uwu_eat', clip = 'bzzz_uwu_eat' },
+            prop = { model = 'bzzz_uwuprops_nekoonigiri_a',
+            pos = vec3(0.06, 0.00, 0.06), rot = vec3(0.0, 0.0, 80.0) },
+			bone = 60309,
+            usetime = 5000,
+        },
+    },
