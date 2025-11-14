@@ -2,7 +2,7 @@
 		label = 'Croissant',
 		weight = 500,
 		client = {
-			status = { thirst = 200000 },
+			status = { hunger = 200000 },
 			anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
 			prop = { model = `bzzz_new_snacks_croissant_a`, pos = vec3(0.0, 0.0, 0.0), rot = vec3(0.0, -50.0, 80.0) },
 			usetime = 2500,
@@ -14,7 +14,7 @@
 		label = 'Pink donut',
 		weight = 500,
 		client = {
-			status = { thirst = 200000 },
+			status = { hunger = 200000 },
 			anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
 			prop = { model = `bzzz_new_snacks_donut_a`, pos = vec3(0.0, 0.0, -0.02), rot = vec3(0.0, -20.0, 80.0) },
 			usetime = 2500,
@@ -26,7 +26,7 @@
 		label = 'Chocolate donut',
 		weight = 500,
 		client = {
-			status = { thirst = 200000 },
+			status = { hunger = 200000 },
 			anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
 			prop = { model = `bzzz_new_snacks_donut_b`, pos = vec3(0.0, 0.0, -0.02), rot = vec3(0.0, -20.0, 80.0) },
 			usetime = 2500,
@@ -38,7 +38,7 @@
 		label = 'Peanuts',
 		weight = 500,
 		client = {
-			status = { thirst = 200000 },
+			status = { hunger = 200000 },
 			anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
 			prop = { model = `bzzz_new_snacks_peanuts_a`, pos = vec3(0.0, -0.02, -0.01), rot = vec3(0.0, -20.0, 80.0) },
 			usetime = 2500,
@@ -50,7 +50,7 @@
 		label = 'Pretzels',
 		weight = 500,
 		client = {
-			status = { thirst = 200000 },
+			status = { hunger = 200000 },
 			anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
 			prop = { model = `bzzz_new_snacks_pretzels_a`, pos = vec3(0.03, -0.04, -0.01), rot = vec3(-80.0, 0.0, 70.0) },
 			usetime = 2500,
