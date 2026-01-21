@@ -6,7 +6,16 @@ Thanks for your understanding
 
 
 Coords for my props: https://bzzz.tebex.io/category/food
+Images for inventory: https://bzzz.wiki/ 
 
-Images for inventory: https://bzzz.wiki/
+Credit: 
+Pics and More, lumisaphy
 
-Credit: Pics and More
+
+The codes contain configs for:
+ox_inventory: https://coxdocs.dev/
+qb_smallresources: https://github.com/qbcore-framework/qb-smallresources
+qb_core: https://github.com/qbcore-framework/qb-core
+bzzz_usableitems: https://bzzz.tebex.io/package/5396278 (for old invenories, currently not recommended)
+Rcore drunk: https://store.rcore.cz/package/5161129
+Tgiann - Realistic Food Jobs: https://www.tgiann.com/cs/package/6021494
