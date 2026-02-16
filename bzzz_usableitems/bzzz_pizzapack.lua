@@ -140,5 +140,76 @@
                 xPos = 0.16, yPos = 0.04, zPos = 0.02, xRot = -33.0, yRot = -245.0, zRot = -161.0
             }
         },
-		
+ 		["boscaiola002"] = {
+            basicInfo = {
+                amountToAdd = 200000,
+                animationDict = "mp_player_inteat@burger",
+                animationName = "mp_player_int_eat_burger"
+            },
+            firstProp = {
+                boneIndex = 18905, 
+                propName = "bzzz_foodpack_pizza_boscaiola002", 
+                xPos = 0.16, yPos = 0.04, zPos = 0.02, xRot = -33.0, yRot = -245.0, zRot = -161.0
+            }
+        },
+			["carbonara002"] = {
+            basicInfo = {
+                amountToAdd = 200000,
+                animationDict = "mp_player_inteat@burger",
+                animationName = "mp_player_int_eat_burger"
+            },
+            firstProp = {
+                boneIndex = 18905, 
+                propName = "bzzz_foodpack_pizza_carbonara002", 
+                xPos = 0.16, yPos = 0.04, zPos = 0.02, xRot = -33.0, yRot = -245.0, zRot = -161.0
+            }
+        },		
+			["fruttidimare002"] = {
+            basicInfo = {
+                amountToAdd = 200000,
+                animationDict = "mp_player_inteat@burger",
+                animationName = "mp_player_int_eat_burger"
+            },
+            firstProp = {
+                boneIndex = 18905, 
+                propName = "bzzz_foodpack_pizza_fruttidimare002", 
+                xPos = 0.16, yPos = 0.04, zPos = 0.02, xRot = -33.0, yRot = -245.0, zRot = -161.0
+            }
+        },		
+			["primavera002"] = {
+            basicInfo = {
+                amountToAdd = 200000,
+                animationDict = "mp_player_inteat@burger",
+                animationName = "mp_player_int_eat_burger"
+            },
+            firstProp = {
+                boneIndex = 18905, 
+                propName = "bzzz_foodpack_pizza_primavera002", 
+                xPos = 0.16, yPos = 0.04, zPos = 0.02, xRot = -33.0, yRot = -245.0, zRot = -161.0
+            }
+        },		
+			["romana002"] = {
+            basicInfo = {
+                amountToAdd = 200000,
+                animationDict = "mp_player_inteat@burger",
+                animationName = "mp_player_int_eat_burger"
+            },
+            firstProp = {
+                boneIndex = 18905, 
+                propName = "bzzz_foodpack_pizza_romana002", 
+                xPos = 0.16, yPos = 0.04, zPos = 0.02, xRot = -33.0, yRot = -245.0, zRot = -161.0
+            }
+        },		
+			["vegetariana002"] = {
+            basicInfo = {
+                amountToAdd = 200000,
+                animationDict = "mp_player_inteat@burger",
+                animationName = "mp_player_int_eat_burger"
+            },
+            firstProp = {
+                boneIndex = 18905, 
+                propName = "bzzz_foodpack_pizza_vegetariana002", 
+                xPos = 0.16, yPos = 0.04, zPos = 0.02, xRot = -33.0, yRot = -245.0, zRot = -161.0
+            }
+        },					
 		
