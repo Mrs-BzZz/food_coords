@@ -119,3 +119,69 @@
 			notification = 'Bon appétit'
 		}
 	},
+	['boscaiola'] = {
+		label = 'Pizza Boscaiola',
+		weight = 350,
+		client = {
+			status = { hunger = 200000 },
+			anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
+			prop = { model = `bzzz_foodpack_pizza_boscaiola002`, bone = 60309, pos = vec3(0.02, -0.03, -0.02), rot = vec3(0.0, 25.0, -70.0) },
+			usetime = 2500,
+			notification = 'Bon appétit'
+		}
+	},
+	['carbonara'] = {
+		label = 'Pizza Carbonara',
+		weight = 350,
+		client = {
+			status = { hunger = 200000 },
+			anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
+			prop = { model = `bzzz_foodpack_pizza_carbonara002`, bone = 60309, pos = vec3(0.02, -0.03, -0.02), rot = vec3(0.0, 25.0, -70.0) },
+			usetime = 2500,
+			notification = 'Bon appétit'
+		}
+	},
+	['fruttidimare'] = {
+		label = 'Pizza Frutti di Mare',
+		weight = 350,
+		client = {
+			status = { hunger = 200000 },
+			anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
+			prop = { model = `bzzz_foodpack_pizza_fruttidimare002`, bone = 60309, pos = vec3(0.02, -0.03, -0.02), rot = vec3(0.0, 25.0, -70.0) },
+			usetime = 2500,
+			notification = 'Bon appétit'
+		}
+	},	
+	['primavera'] = {
+		label = 'Pizza Primavera',
+		weight = 350,
+		client = {
+			status = { hunger = 200000 },
+			anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
+			prop = { model = `bzzz_foodpack_pizza_primavera002`, bone = 60309, pos = vec3(0.02, -0.03, -0.02), rot = vec3(0.0, 25.0, -70.0) },
+			usetime = 2500,
+			notification = 'Bon appétit'
+		}
+	},		
+	['romana'] = {
+		label = 'Pizza Romana',
+		weight = 350,
+		client = {
+			status = { hunger = 200000 },
+			anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
+			prop = { model = `bzzz_foodpack_pizza_romana002`, bone = 60309, pos = vec3(0.02, -0.03, -0.02), rot = vec3(0.0, 25.0, -70.0) },
+			usetime = 2500,
+			notification = 'Bon appétit'
+		}
+	},
+	['vegetariana'] = {
+		label = 'Pizza Vegetariana',
+		weight = 350,
+		client = {
+			status = { hunger = 200000 },
+			anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
+			prop = { model = `bzzz_foodpack_pizza_vegetariana002`, bone = 60309, pos = vec3(0.02, -0.03, -0.02), rot = vec3(0.0, 25.0, -70.0) },
+			usetime = 2500,
+			notification = 'Bon appétit'
+		}
+	},
