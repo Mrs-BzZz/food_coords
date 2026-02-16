@@ -294,3 +294,167 @@
         removeAfterUse = true
     }
 },
+
+['boscaiola002'] = {
+    ['name'] = 'boscaiola002',
+    ['label'] = 'Pizza Boscaiola',
+    ['weight'] = 350,
+    ['type'] = 'item',
+    ['image'] = 'bzzz_foodpack_pizza_capricciosa002.png',
+    ['unique'] = true,
+    ['useable'] = true,
+    ['shouldClose'] = true,
+    ['combinable'] = nil,
+    ['description'] = 'Pizza Boscaiola',
+    ['created'] = nil,
+    ['decay'] = 0.20,
+    ['delete'] = false,
+    ['object'] = 'bzzz_foodpack_pizza_boscaiola002',
+    ['client'] = {
+        status = { hunger = 7500 },
+        usetime = 5500,
+        anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
+        prop = {
+            { model = 'bzzz_foodpack_pizza_boscaiola002', bone = 60309, pos = vec3(0.02, -0.03, -0.02), rot = vec3(0.0, 25.0, -70.0) }
+        },
+        disable = { move = false, car = true, mouse = false, combat = true },
+        removeAfterUse = true
+    }
+},
+
+['carbonara002'] = {
+    ['name'] = 'carbonara002',
+    ['label'] = 'Pizza Carbonara',
+    ['weight'] = 350,
+    ['type'] = 'item',
+    ['image'] = 'bzzz_foodpack_pizza_carbonara002.png',
+    ['unique'] = true,
+    ['useable'] = true,
+    ['shouldClose'] = true,
+    ['combinable'] = nil,
+    ['description'] = 'Pizza Carbonara',
+    ['created'] = nil,
+    ['decay'] = 0.20,
+    ['delete'] = false,
+    ['object'] = 'bzzz_foodpack_pizza_carbonara002',
+    ['client'] = {
+        status = { hunger = 7500 },
+        usetime = 5500,
+        anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
+        prop = {
+            { model = 'bzzz_foodpack_pizza_carbonara002', bone = 60309, pos = vec3(0.02, -0.03, -0.02), rot = vec3(0.0, 25.0, -70.0) }
+        },
+        disable = { move = false, car = true, mouse = false, combat = true },
+        removeAfterUse = true
+    }
+},
+
+['fruttidimare002'] = {
+    ['name'] = 'fruttidimare002',
+    ['label'] = 'Pizza Frutti di Mare',
+    ['weight'] = 350,
+    ['type'] = 'item',
+    ['image'] = 'bzzz_foodpack_pizza_fruttidimare002.png',
+    ['unique'] = true,
+    ['useable'] = true,
+    ['shouldClose'] = true,
+    ['combinable'] = nil,
+    ['description'] = 'Pizza Frutti di Mare',
+    ['created'] = nil,
+    ['decay'] = 0.20,
+    ['delete'] = false,
+    ['object'] = 'bzzz_foodpack_pizza_fruttidimare002',
+    ['client'] = {
+        status = { hunger = 7500 },
+        usetime = 5500,
+        anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
+        prop = {
+            { model = 'bzzz_foodpack_pizza_fruttidimare002', bone = 60309, pos = vec3(0.02, -0.03, -0.02), rot = vec3(0.0, 25.0, -70.0) }
+        },
+        disable = { move = false, car = true, mouse = false, combat = true },
+        removeAfterUse = true
+    }
+},
+
+['primavera002'] = {
+    ['name'] = 'primavera002',
+    ['label'] = 'Pizza Primavera',
+    ['weight'] = 350,
+    ['type'] = 'item',
+    ['image'] = 'bzzz_foodpack_pizza_primavera002.png',
+    ['unique'] = true,
+    ['useable'] = true,
+    ['shouldClose'] = true,
+    ['combinable'] = nil,
+    ['description'] = 'Pizza Primavera',
+    ['created'] = nil,
+    ['decay'] = 0.20,
+    ['delete'] = false,
+    ['object'] = 'bzzz_foodpack_pizza_primavera002',
+    ['client'] = {
+        status = { hunger = 7500 },
+        usetime = 5500,
+        anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
+        prop = {
+            { model = 'bzzz_foodpack_pizza_primavera002', bone = 60309, pos = vec3(0.02, -0.03, -0.02), rot = vec3(0.0, 25.0, -70.0) }
+        },
+        disable = { move = false, car = true, mouse = false, combat = true },
+        removeAfterUse = true
+    }
+},
+
+['romana002'] = {
+    ['name'] = 'romana002',
+    ['label'] = 'Pizza Romana',
+    ['weight'] = 350,
+    ['type'] = 'item',
+    ['image'] = 'bzzz_foodpack_pizza_romana002.png',
+    ['unique'] = true,
+    ['useable'] = true,
+    ['shouldClose'] = true,
+    ['combinable'] = nil,
+    ['description'] = 'Pizza Romana',
+    ['created'] = nil,
+    ['decay'] = 0.20,
+    ['delete'] = false,
+    ['object'] = 'bzzz_foodpack_pizza_romana002',
+    ['client'] = {
+        status = { hunger = 7500 },
+        usetime = 5500,
+        anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
+        prop = {
+            { model = 'bzzz_foodpack_pizza_romana002', bone = 60309, pos = vec3(0.02, -0.03, -0.02), rot = vec3(0.0, 25.0, -70.0) }
+        },
+        disable = { move = false, car = true, mouse = false, combat = true },
+        removeAfterUse = true
+    }
+},
+
+
+['vegetariana002'] = {
+    ['name'] = 'vegetariana002',
+    ['label'] = 'Pizza Vegetariana',
+    ['weight'] = 350,
+    ['type'] = 'item',
+    ['image'] = 'bzzz_foodpack_pizza_vegetariana002.png',
+    ['unique'] = true,
+    ['useable'] = true,
+    ['shouldClose'] = true,
+    ['combinable'] = nil,
+    ['description'] = 'Pizza Vegetariana',
+    ['created'] = nil,
+    ['decay'] = 0.20,
+    ['delete'] = false,
+    ['object'] = 'bzzz_foodpack_pizza_vegetariana002',
+    ['client'] = {
+        status = { hunger = 7500 },
+        usetime = 5500,
+        anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger' },
+        prop = {
+            { model = 'bzzz_foodpack_pizza_vegetariana002', bone = 60309, pos = vec3(0.02, -0.03, -0.02), rot = vec3(0.0, 25.0, -70.0) }
+        },
+        disable = { move = false, car = true, mouse = false, combat = true },
+        removeAfterUse = true
+    }
+},
+
