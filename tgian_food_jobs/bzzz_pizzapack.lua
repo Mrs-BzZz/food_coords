@@ -190,3 +190,106 @@ config.consumableItems = {
         }
     },
 }
+
+    {
+        progressbarLabel = t("eating"),
+        type = "food",
+        item = "boscaiola002",
+        time = 5500,
+        addValue = 100,
+        animation = {
+            animDictionary = "mp_player_inteat@burger",
+            animationName = "mp_player_int_eat_burger",
+        },
+        propOptions = {
+            Prop = "bzzz_foodpack_pizza_boscaiola002",
+            PropBone = 60309,
+            PropPlacement = { 0.02, -0.03, -0.02, 0.0, 25.0, -70.0 },
+        }
+    },
+	
+	    {
+        progressbarLabel = t("eating"),
+        type = "food",
+        item = "carbonara002",
+        time = 5500,
+        addValue = 100,
+        animation = {
+            animDictionary = "mp_player_inteat@burger",
+            animationName = "mp_player_int_eat_burger",
+        },
+        propOptions = {
+            Prop = "bzzz_foodpack_pizza_carbonara002",
+            PropBone = 60309,
+            PropPlacement = { 0.02, -0.03, -0.02, 0.0, 25.0, -70.0 },
+        }
+    },
+	
+	    {
+        progressbarLabel = t("eating"),
+        type = "food",
+        item = "fruttidimare002",
+        time = 5500,
+        addValue = 100,
+        animation = {
+            animDictionary = "mp_player_inteat@burger",
+            animationName = "mp_player_int_eat_burger",
+        },
+        propOptions = {
+            Prop = "bzzz_foodpack_pizza_fruttidimare002",
+            PropBone = 60309,
+            PropPlacement = { 0.02, -0.03, -0.02, 0.0, 25.0, -70.0 },
+        }
+    },
+	
+	    {
+        progressbarLabel = t("eating"),
+        type = "food",
+        item = "primavera002",
+        time = 5500,
+        addValue = 100,
+        animation = {
+            animDictionary = "mp_player_inteat@burger",
+            animationName = "mp_player_int_eat_burger",
+        },
+        propOptions = {
+            Prop = "bzzz_foodpack_pizza_primavera002",
+            PropBone = 60309,
+            PropPlacement = { 0.02, -0.03, -0.02, 0.0, 25.0, -70.0 },
+        }
+    },
+	
+	    {
+        progressbarLabel = t("eating"),
+        type = "food",
+        item = "romana002",
+        time = 5500,
+        addValue = 100,
+        animation = {
+            animDictionary = "mp_player_inteat@burger",
+            animationName = "mp_player_int_eat_burger",
+        },
+        propOptions = {
+            Prop = "bzzz_foodpack_pizza_romana002",
+            PropBone = 60309,
+            PropPlacement = { 0.02, -0.03, -0.02, 0.0, 25.0, -70.0 },
+        }
+    },
+	
+	
+	    {
+        progressbarLabel = t("eating"),
+        type = "food",
+        item = "vegetariana002",
+        time = 5500,
+        addValue = 100,
+        animation = {
+            animDictionary = "mp_player_inteat@burger",
+            animationName = "mp_player_int_eat_burger",
+        },
+        propOptions = {
+            Prop = "bzzz_foodpack_pizza_vegetariana002",
+            PropBone = 60309,
+            PropPlacement = { 0.02, -0.03, -0.02, 0.0, 25.0, -70.0 },
+        }
+    },
