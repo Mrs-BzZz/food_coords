@@ -13,8 +13,8 @@
             anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger_fp' },
             prop = { model = 'bzzz_icecream_cherry',
             bone = 18905,
-            pos = vec3(0.14, 0.03, 0.01),
-            rot = vec3(85.0, 70.0, -203.0) },
+            pos = vec3(0.10, 0.03, 0.03),
+            rot = vec3(105.0, 70.0, -203.0) },
             usetime = 7500,
 			notification = 'Fantastic ice cream'
 
@@ -33,8 +33,8 @@
             anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger_fp' },
             prop = { model = 'bzzz_icecream_chocolate',
             bone = 18905,
-            pos = vec3(0.14, 0.03, 0.01),
-            rot = vec3(85.0, 70.0, -203.0) },
+            pos = vec3(0.10, 0.03, 0.03),
+            rot = vec3(105.0, 70.0, -203.0) },
             usetime = 7500,
 			notification = 'Fantastic ice cream'
         },
@@ -52,8 +52,8 @@
             anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger_fp' },
             prop = { model = 'bzzz_icecream_lemon',
             bone = 18905,
-            pos = vec3(0.14, 0.03, 0.01),
-            rot = vec3(85.0, 70.0, -203.0) },
+            pos = vec3(0.10, 0.03, 0.03),
+            rot = vec3(105.0, 70.0, -203.0) },
             usetime = 7500,
 			notification = 'Fantastic ice cream'
         },
@@ -71,8 +71,8 @@
             anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger_fp' },
             prop = { model = 'bzzz_icecream_pistachio',
             bone = 18905,
-            pos = vec3(0.14, 0.03, 0.01),
-            rot = vec3(85.0, 70.0, -203.0) },
+            pos = vec3(0.10, 0.03, 0.03),
+            rot = vec3(105.0, 70.0, -203.0) },
             usetime = 7500,
 			notification = 'Fantastic ice cream'
         },
@@ -90,8 +90,8 @@
             anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger_fp' },
             prop = { model = 'bzzz_icecream_raspberry',
             bone = 18905,
-            pos = vec3(0.14, 0.03, 0.01),
-            rot = vec3(85.0, 70.0, -203.0) },
+            pos = vec3(0.10, 0.03, 0.03),
+            rot = vec3(105.0, 70.0, -203.0) },
             usetime = 7500,
 			notification = 'Fantastic ice cream'
         },
@@ -109,8 +109,8 @@
             anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger_fp' },
             prop = { model = 'bzzz_icecream_stracciatella',
             bone = 18905,
-            pos = vec3(0.14, 0.03, 0.01),
-            rot = vec3(85.0, 70.0, -203.0) },
+            pos = vec3(0.10, 0.03, 0.03),
+            rot = vec3(105.0, 70.0, -203.0) },
             usetime = 7500,
 			notification = 'Fantastic ice cream'
         },
@@ -128,8 +128,8 @@
             anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger_fp' },
             prop = { model = 'bzzz_icecream_strawberry',
             bone = 18905,
-            pos = vec3(0.14, 0.03, 0.01),
-            rot = vec3(85.0, 70.0, -203.0) },
+            pos = vec3(0.10, 0.03, 0.03),
+            rot = vec3(105.0, 70.0, -203.0) },
             usetime = 7500,
 			notification = 'Fantastic ice cream'
         },
@@ -147,8 +147,8 @@
             anim = { dict = 'mp_player_inteat@burger', clip = 'mp_player_int_eat_burger_fp' },
             prop = { model = 'bzzz_icecream_walnut',
             bone = 18905,
-            pos = vec3(0.14, 0.03, 0.01),
-            rot = vec3(85.0, 70.0, -203.0) },
+            pos = vec3(0.10, 0.03, 0.03),
+            rot = vec3(105.0, 70.0, -203.0) },
             usetime = 7500,
 			notification = 'Fantastic ice cream'
         },
