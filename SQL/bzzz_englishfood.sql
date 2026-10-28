@@ -1,3 +1,4 @@
+/* Insert items into the database if your script requires it. */
 INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES
 	/* English Food & Drink */
 ('bzzz_englishfood_fishchips_b', 'Fish & chips', 1, 0, 0),
@@ -19,7 +20,7 @@ INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES
 ('bzzz_englishfood_sponge_a', 'Victoria Sponge', 1, 0, 0),
 ('bzzz_englishfood_scone_a', 'Scone', 1, 0, 0),
 ('bzzz_englishfood_shortbread_a', 'Shortbread', 1, 0, 0),
-('bzzz_englishfood_jammiedodger_a', 'Jammie Dodger', 1, 0, 0),
+('bzzz_englishfood_jamsandwichbiscuit_a', 'Jam Sandwich Biscuit', 1, 0, 0),
 ('bzzz_englishfood_digestive_a', 'Digestive Biscuits', 1, 0, 0),
 ('bzzz_englishfood_chips_a', 'Chips - Ready Salted', 1, 0, 0),
 ('bzzz_englishfood_chips_b', 'Chips - Cheese & Onion', 1, 0, 0),
