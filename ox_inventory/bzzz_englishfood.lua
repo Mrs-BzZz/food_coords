@@ -494,23 +494,23 @@
         },
     },
 
-	['bzzz_englishfood_jammiedodger_a'] = {
-        label = "Jammie Dodger",
+	['bzzz_englishfood_jamsandwichbiscuit_a'] = {
+        label = "Jam Sandwich Biscuit",
         degrade = 2880,
         weight = 200,
         stack = false,
         close = true,
-        description = "Jammie Dodger",
+        description = "Jam Sandwich Biscuit",
         client = {
             status = { hunger = 50000 },
             anim = { dict = 'bzzz_englishfood_animations', clip = 'anim2' },
 
-            prop = { model = 'bzzz_englishfood_jammiedodger_a',
+            prop = { model = 'bzzz_englishfood_jamsandwichbiscuit_a',
             bone = 60309,
             pos = vec3(0.08, 0.01, 0.052),
             rot = vec3(-30.0, 0.0, 0.0) },
 
-            propTwo = { model = 'bzzz_englishfood_jammiedodger_a2',
+            propTwo = { model = 'bzzz_englishfood_jamsandwichbiscuit_a2',
             bone = 28422,
             pos = vec3(0.1, 0.05, -0.03),
             rot = vec3(12.0, 10.0, 58.0) },
