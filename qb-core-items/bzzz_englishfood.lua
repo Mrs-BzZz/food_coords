@@ -247,17 +247,17 @@ bzzz_englishfood_shortbread_a = {
     description = 'Shortbread'
 },
 
-bzzz_englishfood_jammiedodger_a = {
-    name = 'bzzz_englishfood_jammiedodger_a',
-    label = 'Jammie Dodger',
+bzzz_englishfood_jamsandwichbiscuit_a = {
+    name = 'bzzz_englishfood_jamsandwichbiscuit_a',
+    label = 'Jam Sandwich Biscuit',
     weight = 200,
     type = 'item',
-    image = 'bzzz_englishfood_jammiedodger_a.png',
+    image = 'bzzz_englishfood_jamsandwichbiscuit_a.png',
     unique = false,
     useable = true,
     shouldClose = true,
     combinable = nil,
-    description = 'Jammie Dodger'
+    description = 'Jam Sandwich Biscuit'
 },
 
 bzzz_englishfood_digestive_a = {
