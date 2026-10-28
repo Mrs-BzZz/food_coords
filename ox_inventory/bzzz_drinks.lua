@@ -176,7 +176,7 @@
 		}
 	},	
 ['bzzz_drink_rumcoke_a'] = {
-		label = 'Rum with Coke',
+		label = 'Rum and Cola',
 		weight = 350,
 		client = {
 			status = { thirst = 200000 },
