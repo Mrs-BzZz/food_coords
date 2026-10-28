@@ -600,7 +600,7 @@
     }
 },
 
-['bzzz_englishfood_jammiedodger_a'] = {
+['bzzz_englishfood_jamsandwichbiscuit_a'] = {
     progress = {
         label = 'Using Item...',
         time = 10000
@@ -611,13 +611,13 @@
         flags = 49,
     },
     prop = {
-        model = 'bzzz_englishfood_jammiedodger_a',
+        model = 'bzzz_englishfood_jamsandwichbiscuit_a',
         bone = 60309,
         coords = vector3(0.08, 0.01, 0.052),
         rotation = vector3(-30.0, 0.0, 0.0)
     },
     prop2 = {
-        model = 'bzzz_englishfood_jammiedodger_a2',
+        model = 'bzzz_englishfood_jamsandwichbiscuit_a2',
         bone = 28422,
         coords = vector3(0.1, 0.05, -0.03),
         rotation = vector3(12.0, 10.0, 58.0)
