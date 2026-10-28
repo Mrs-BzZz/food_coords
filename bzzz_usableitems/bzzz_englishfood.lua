@@ -497,7 +497,7 @@
     }
 },
 
-['bzzz_englishfood_jammiedodger_a'] = {
+['bzzz_englishfood_jamsandwichbiscuit_a'] = {
     basicInfo = {
         amountToAdd = 50000, -- Adds food to your status bar (require esx_status)
         animationDictEat = "bzzz_englishfood_animations",
@@ -507,12 +507,12 @@
     },
     firstProp = {
         boneIndex = 60309,
-        propName = "bzzz_englishfood_jammiedodger_a",
+        propName = "bzzz_englishfood_jamsandwichbiscuit_a",
         xPos = 0.08, yPos = 0.01, zPos = 0.052, xRot = -30.0, yRot = 0.0, zRot = 0.0
     },
     secondProp = {
         boneIndex = 28422,
-        propName = "bzzz_englishfood_jammiedodger_a2",
+        propName = "bzzz_englishfood_jamsandwichbiscuit_a2",
         xPos = 0.1, yPos = 0.05, zPos = -0.03, xRot = 12.0, yRot = 10.0, zRot = 58.0
     }
 },
